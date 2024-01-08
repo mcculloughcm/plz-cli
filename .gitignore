@@ -7,3 +7,8 @@
 
 .DS_Store
 .tmp.sh
+
+
+# Added by cargo
+
+/target
